@@ -41,18 +41,15 @@ Gained unauthorized remote access to victim machine using msfconsole and netcat
 Dumped and cracked Linux /etc/shadow hashes using John the Ripper
 
 📸 Screenshots
-![image](https://github.com/user-attachments/assets/58b091e6-0b57-4031-920b-1844c8ff051d)
+![image](https://github.com/user-attachments/assets/23b06a27-87a0-427b-85dd-f6ae3f08621a)
 
-![image](https://github.com/user-attachments/assets/a3a6e38d-4db6-4cf0-b7fd-5bd4131dad77)
+![image](https://github.com/user-attachments/assets/58b3b650-c66b-45bb-a0ea-04aafdc9d396)
 
-![image](https://github.com/user-attachments/assets/fce9e52c-22e6-48e2-8c46-8f9ce70f6039)
+![image](https://github.com/user-attachments/assets/9f6e42f7-4dde-4218-b5b8-e6664b4708ae)
 
-![image](https://github.com/user-attachments/assets/4ed60a49-ca9b-48c1-ace3-f03e540ea6e5)
+![image](https://github.com/user-attachments/assets/b1e10537-1365-462b-ba19-8e2de564c982)
 
-![image](https://github.com/user-attachments/assets/f8ec30ab-e349-4bcb-a059-0c54761c045c)
-
-![image](https://github.com/user-attachments/assets/32a4cf1e-80cf-40d1-a67d-30796487fff5)
-
+![image](https://github.com/user-attachments/assets/62c6bf1d-a7f5-467e-8be0-28ef2fc462d3)
 
 ⚠️ Disclaimer
 All activities were performed in a controlled lab environment using explicitly permitted systems and virtual machines. This project is strictly for educational and ethical hacking purposes.
